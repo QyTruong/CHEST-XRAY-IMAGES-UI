@@ -2,7 +2,8 @@
 ---
 
 ## Step 1: git clone https://github.com/QyTruong/CHEST-XRAY-IMAGES-UI.git
-<img width="1214" height="519" alt="image" src="https://github.com/user-attachments/assets/229735fe-06b8-4217-9364-edba56024c64" />
+<img width="2239" height="1246" alt="image" src="https://github.com/user-attachments/assets/0ac584b7-c729-43c3-8b3e-7c9602c4eea3" />
+
 
 ## Step 2: 
 - Click this link https://github.com/yuuMQ/CHEST-XRAY-IMAGES-CLASSIFICATION-WITH-ViT, then scroll down to MY CHECKPOINT to download ViT_b16_models.zip
