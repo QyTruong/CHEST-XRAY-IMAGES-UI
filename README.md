@@ -11,7 +11,8 @@
 
 ## Step 3:
 - Extract ViT_b16_models.zip and SAM_models.zip to your project
-<img width="2559" height="1377" alt="image" src="https://github.com/user-attachments/assets/9f3f6957-356e-4d48-82ea-c771b2004522" />
+![Uploading image.png…]()
+
 - In ViT_b16_models.zip and SAM_models.zip have last_model.pt, you can delete those files if you don't need those for training
 
 ## Step 4:
@@ -20,6 +21,7 @@
 streamlit run app.py
 ```
 - User interface after running app.py
+<img width="2559" height="1377" alt="image" src="https://github.com/user-attachments/assets/9f3f6957-356e-4d48-82ea-c771b2004522" />
 <img width="2559" height="1367" alt="image" src="https://github.com/user-attachments/assets/64320935-ec40-4fc8-83bb-6f57066126bc" />
 
 ---
