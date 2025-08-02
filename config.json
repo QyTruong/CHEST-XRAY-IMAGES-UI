@@ -1,0 +1,20 @@
+{
+    "image_size": [
+        224, 1024
+    ],
+    "num_classes": 4,
+    "model_path": [
+        "ViT_b16_models/best_model.pt",
+        "SAM_models/best_model.pt"
+    ],
+    "checkpoint_path": [
+        "ViT_b16_models/best_model.pt",
+        "SAM_models/best_model.pt"
+    ],
+    "categories": [
+        "COVID",
+        "Lung_Opacity",
+        "Normal",
+        "Viral_Pneumonia"
+    ]
+}
