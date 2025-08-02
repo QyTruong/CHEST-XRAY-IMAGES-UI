@@ -27,10 +27,11 @@ streamlit run app.py
 ---
 # HOW TO USE USER INTERFACE ?
 - Using for classification:
-<img width="2559" height="1371" alt="image" src="https://github.com/user-attachments/assets/b8fa73be-b4f5-4475-9a5f-45e937ddf663" />
+
 
 ---
 - Using for segmentation:
+<img width="2559" height="1371" alt="image" src="https://github.com/user-attachments/assets/b8fa73be-b4f5-4475-9a5f-45e937ddf663" />
 <img width="2559" height="1362" alt="image" src="https://github.com/user-attachments/assets/4da8870f-60ef-4cb4-b27b-714eb11a8ef7" />
 ![Uploading image.png…]()
 
