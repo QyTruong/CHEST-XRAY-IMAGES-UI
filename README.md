@@ -12,7 +12,8 @@
 
 ## Step 3:
 - Extract ViT_b16_models.zip and SAM_models.zip to your project
-![Uploading image.png…]()
+<img width="2323" height="639" alt="image" src="https://github.com/user-attachments/assets/3833ac99-c10d-4877-955b-8890e27921ed" />
+
 
 - In ViT_b16_models.zip and SAM_models.zip have last_model.pt, you can delete those files if you don't need those for training
 
@@ -33,7 +34,7 @@ streamlit run app.py
 - Using for segmentation:
 <img width="2559" height="1371" alt="image" src="https://github.com/user-attachments/assets/b8fa73be-b4f5-4475-9a5f-45e937ddf663" />
 <img width="2559" height="1362" alt="image" src="https://github.com/user-attachments/assets/4da8870f-60ef-4cb4-b27b-714eb11a8ef7" />
-![Uploading image.png…]()
+
 
 
 
