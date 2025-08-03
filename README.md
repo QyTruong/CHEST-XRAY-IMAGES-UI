@@ -8,7 +8,7 @@
 ## Step 2: 
 - Click this link https://github.com/yuuMQ/CHEST-XRAY-IMAGES-CLASSIFICATION-WITH-ViT, then scroll down to MY CHECKPOINT to download ViT_b16_models.zip
 - Click this link https://github.com/yuuMQ/CHEST_XRAY_SEGMENTATION_WITH_SAM, then scroll down to MY CHECKPOINT to download SAM_models.zip
-- In ViT_b16_models.zip and SAM_models.zip have last_model.pt, you can delete those files if you don't need those for training
+
 
 ## Step 3:
 - Extract ViT_b16_models.zip and SAM_models.zip to your project
