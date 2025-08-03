@@ -1,7 +1,10 @@
 # HOW TO INSTALL TO USE USER INTERFACE ?
 ---
 
-## Step 1: git clone https://github.com/QyTruong/CHEST-XRAY-IMAGES-UI.git
+## Step 1: 
+```text
+git clone https://github.com/QyTruong/CHEST-XRAY-IMAGES-UI.git
+```
 <img width="2239" height="1246" alt="image" src="https://github.com/user-attachments/assets/0ac584b7-c729-43c3-8b3e-7c9602c4eea3" />
 
 
@@ -18,10 +21,12 @@
 - In ViT_b16_models.zip and SAM_models.zip have last_model.pt, you can delete those files if you don't need those for training
 
 ## Step 4:
-- Then run in your project:
+- Run in your project:
 ```text
 streamlit run app.py
 ```
+<img width="2559" height="425" alt="image" src="https://github.com/user-attachments/assets/565b03ae-d501-43ec-9e09-f65166fdca8b" />
+
 - User interface after running app.py
 <img width="2559" height="1377" alt="image" src="https://github.com/user-attachments/assets/9f3f6957-356e-4d48-82ea-c771b2004522" />
 
