@@ -77,8 +77,6 @@ def overlay_mask_on_image(image_np, mask_np, alpha=0.5):
 
 # ======================================================== User Interface ========================================================
 
-
-# Title
 st.set_page_config(layout="wide")
 st.markdown(
     "<h1 style='text-align: center;'>COVID-19 Classification And Segmentation</h1>",
@@ -88,7 +86,7 @@ st.markdown(
 config = load_config("config.json")
 class_names = config["categories"]
 
-# Classification
+# ==================== CLASSIFICATION ====================
 classification_model = load_model_c(config["checkpoint_path"][0], config["num_classes"])
 transform = get_transform_t(config["image_size"][0])
 
@@ -121,7 +119,6 @@ if classification_image is not None:
 
 st.divider()
 
-# Segmentation
 # ==================== SEGMENTATION ====================
 st.title("Segmentation:")
 
@@ -197,6 +194,7 @@ if segmentation_image is not None and segmentation_mask is not None:
             st.image(overlay_combined, caption="Overlay: GT Mask (Green) + Pred Mask (Red)", use_container_width=True)
         with col3:
             st.image(overlay_pred, caption="Predicted Mask with Bounding Box", use_container_width=True)
+
 
 
 
